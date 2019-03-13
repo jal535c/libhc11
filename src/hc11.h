@@ -15,7 +15,9 @@ class ROM;
 #include "ccr.h"	
 
 //#include "timer.h"		//clase TimerSubSystem
+//#include "iosystem.h"		//clase HandShakeIOSubSystem
 class TimerSubSystem;
+//class HandshakeIOSubSystem;
 
 //mas adelante se incluye "opcode.h", desde dentro de la clase
 
